@@ -1,5 +1,4 @@
-# js_links
-## Полезные ссылки
+# Полезные ссылки
 [Справочник по html/css](http://htmlbook.ru/)  
 [Справочник по html/css 2 ](https://webref.ru/)  
 [Документация по JS](https://developer.mozilla.org/ru/docs/Web/JavaScript)  
